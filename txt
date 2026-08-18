@@ -1,0 +1,6 @@
+isset untuk mengecek apakah variabel ada dan nilainya bukan null
+tidak peduli jika string kosong, array kosong. selama variabal bukan null, maka akan true
+jika empty bernilai true ketika variabal array tidak kosong
+
+empty digunakan untuk mengecek data sudah diisi atau belum
+isset mengecek tombol sudah ditekan atau belum
